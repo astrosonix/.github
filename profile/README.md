@@ -1,4 +1,4 @@
-![github banner](assets/gh-banner.png)
+![github banner](profile/assets/gh-banner.png)
 
 # AstroSonix
 
